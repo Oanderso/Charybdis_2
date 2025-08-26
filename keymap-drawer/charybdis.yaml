@@ -14,11 +14,11 @@ layers:
   - '0'
   - '-'
   - {t: BT, h: '0'}
-  - Q
-  - W
-  - E
-  - R
-  - T
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
   - Y
   - U
   - I
@@ -49,7 +49,7 @@ layers:
   - .
   - /
   - RSHIFT
-  - BSPC
+  - ENTER
   - L CLK
   - LGUI
   - '1'
